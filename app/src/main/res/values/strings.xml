@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalcDesc</string>
+    <string name="descontivo">CalcDesc</string>
+    <string name="preco">Preço</string>
+    <string name="desconto">Desconto %</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    <string name="desconto_two_cards">Desconto</string>
+    <string name="atencao_alerta">Atenção</string>
+    <string name="digite_valor_e_desconto">Digite valor e desconto</string>
+    <string name="aceitar_alerta">Aceitar</string>
+</resources>
